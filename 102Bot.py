@@ -13,7 +13,7 @@ from telegram.ext import CommandHandler, Filters, MessageHandler, Updater
 #################### ETC info ####################
 # 추후 암호화 처리 예정
 
-token = '1345843210:AAErhEbiHVI4lwtqgs11mjCqEWShmwdeAXk'
+token = ''
 
 bot = telegram.Bot(token)
 # 크롤링 할 URL
